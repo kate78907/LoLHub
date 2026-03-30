@@ -1,6 +1,5 @@
 # LoLHub
 A site for all the LoL fans
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
