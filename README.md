@@ -1,2 +1,3 @@
 # League of Legends Hub
 <h3>A place for all LoL fans and players</h1>
+<p1>Welcome to Arcane Nexus — your ultimate hub for mastering League of Legends, whether you're stepping onto the Rift for the very first time or pushing your way toward high-elo gameplay. Here, you’ll find everything you need to grow: clear beginner guides, in-depth strategy breakdowns, champion insights, and up-to-date meta builds. Our goal is simple — help you improve, understand the game on a deeper level, and enjoy every match along the way. No matter your skill level, your journey to becoming a better player starts here.</p1>
