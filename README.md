@@ -1,3 +1,3 @@
-# LoLHub
+# League of Legends Hub
 Welcome to the Rift
-<h>A place for all LoL players and fans<h>
+<h1>A place for all LoL fans and players</h1>
