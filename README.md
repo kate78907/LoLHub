@@ -1,7 +1,6 @@
 # LoLHub
 Welcome to the Rift
 <!DOCTYPE html>
-<html>
 <title>A place for all the LoL fans and players</title>
 <body>
 
