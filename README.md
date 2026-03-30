@@ -1,2 +1,2 @@
 # LoLHub
-A site for all the LoL fans
+Welcome to the Rift
