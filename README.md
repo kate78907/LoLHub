@@ -1,6 +1,5 @@
 # Welcome to the Rift
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>LoL Hub - Home</title>
